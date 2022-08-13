@@ -1,2 +1,2 @@
 # go_labels
-Software for genearating PDF label sheets using GO.  More for fun
+Software for generating PDF label sheets using GO.  More for fun
